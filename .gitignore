@@ -3,7 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-resources/settings.json
+###THIS IS MY PROJECT
+#resources/settings.json
 
 # User-specific files
 *.rsuser
